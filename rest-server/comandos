@@ -1,0 +1,15 @@
+express rest-server
+  npm install
+  npm install mongoose-currency --save
+
+  npm install mongoose --save
+
+  crear modelos
+
+crear rutas
+
+actualizar app
+
+npm start
+
+

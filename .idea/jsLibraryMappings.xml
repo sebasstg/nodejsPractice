@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/basic-auth" libraries="{nodejsPractice/basic-auth/node_modules}" />
     <file url="file://$PROJECT_DIR$/node-assigment2" libraries="{nodejsPractice/node-assigment2/node_modules}" />
     <file url="file://$PROJECT_DIR$/node-express-gen" libraries="{nodejsPractice/node-express-gen/node_modules}" />
+    <file url="file://$PROJECT_DIR$/rest-server" libraries="{nodejsPractice/rest-server/node_modules}" />
   </component>
 </project>
